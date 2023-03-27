@@ -7,4 +7,4 @@ The parent paper used for this research is: https://arxiv.org/abs/2105.03056
 The file name I chose for the full dataset is 'flowers'. 
 
 
-I plan to update the transfer model for my research project. The file I described in the implementation video is FlowerTransferLearning.i
+I plan to update the transfer model for my research project. The file I described in the implementation video is FlowerTransferLearning.ipynb
